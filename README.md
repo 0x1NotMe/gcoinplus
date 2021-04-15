@@ -1,1 +1,1 @@
-# gcoinplus
+# gcoin
